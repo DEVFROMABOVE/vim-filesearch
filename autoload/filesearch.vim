@@ -157,6 +157,7 @@ let s:filesearch_filetype_filters = {
             \ 'sql' :          '\.\(sql\|ctl\)$',
             \ 'tcl' :          '\.\(tcl\|itcl\|itk\)$',
             \ 'tex' :          '\.\(tex\|cls\|sty\)$',
+            \ 'ts' :           '\.\(ts\)$',
             \ 'txt' :          '\.\(txt\)$',
             \ 'tt' :           '\.\(tt\|tt2\|ttml\)$',
             \ 'vb' :           '\.\(bas\|cls\|frm\|ctl\|vb\|resx\)$',
